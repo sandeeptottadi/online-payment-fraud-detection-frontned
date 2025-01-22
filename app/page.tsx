@@ -6,7 +6,7 @@ export default function Home() {
       <div className="max-w-2xl w-full space-y-8">
         <div className="text-center space-y-2">
           <h1 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
-            Online Fraud Detection
+            Online Payment Fraud Detection
           </h1>
           <p className="text-gray-400">
             Enter transaction details to check for potential fraud
